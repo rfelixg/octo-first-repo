@@ -1,6 +1,8 @@
 # I Rose Up At The Dawn Of Day
 By *William Blake*
 
+Source: [Public Domain Poetry](http://www.public-domain-poetry.com/william-blake/i-rose-up-at-the-dawn-of-day-9228)
+
 ###### I rose up at the dawn of day
 `Get thee away! get thee away!
 Pray'st thou for riches? Away! away!
